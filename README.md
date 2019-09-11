@@ -7,4 +7,5 @@ Slides from my talks.
 *Source:* ---  
 *Language:* German  
 *Presented by:* Carolin Zöbelein  
-*Presentation:* Master Seminar in Physics (Studies): Particle and astroparticle physics, Summer term 2015
+*Presentation:* Master Seminar in Physics (Studies): Particle and astroparticle physics, Summer term 2015  
+*License:* CC BY-NC-ND 4.0,  [https://creativecommons.org/licenses/by-nc-nd/4.0/](https://creativecommons.org/licenses/by-nc-nd/4.0/)
