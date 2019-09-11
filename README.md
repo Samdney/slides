@@ -3,7 +3,7 @@
 Slides from my talks.
 
 * **Die Detektion von Cosmic Rays mit Smartphones**  
-*Slides:* MasterPhysicsSeminarTalk_ParticleAndAstroparticlePhysics.pdf  
+*Slides:* [MasterPhysicsSeminarTalk_ParticleAndAstroparticlePhysics.pdf](https://github.com/Samdney/slides/blob/master/MasterPhysicsSeminarTalk_ParticleAndAstroparticlePhysics.pdf)  
 *Source:* ---  
 *Language:* German  
 *Presented by:* Carolin Zöbelein  
