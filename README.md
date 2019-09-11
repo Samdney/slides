@@ -1,6 +1,6 @@
 # slides
 
-Slides from my talks.
+Slides from my talks, meetups, meetings, seminars, Youtube streams and records, webinars and workshops.
 
 * **Die Detektion von Cosmic Rays mit Smartphones**  
 *Slides:* [MasterPhysicsSeminarTalk_ParticleAndAstroparticlePhysics.pdf](https://github.com/Samdney/slides/blob/master/MasterPhysicsSeminarTalk_ParticleAndAstroparticlePhysics.pdf)  
