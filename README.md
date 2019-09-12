@@ -12,7 +12,7 @@ Slides from my talks, meetups, meetings, seminars, Youtube streams and records, 
 *License:* CC BY-NC 3.0
 
 * **Die Detektion von Cosmic Rays mit Smartphones**  
-*Slides:* [MasterPhysicsSeminarTalk_ParticleAndAstroparticlePhysics.pdf](https://github.com/Samdney/slides/blob/master/MasterPhysicsSeminarTalk_ParticleAndAstroparticlePhysics.pdf)  
+*Slides:* [slides-MasterPhysicsSeminarTalk_ParticleAndAstroparticlePhysics.pdf](https://github.com/Samdney/slides/blob/master/slides-MasterPhysicsSeminarTalk_ParticleAndAstroparticlePhysics.pdf)  
 *Source:* ---  
 *Record:* ---  
 *Language:* German  
